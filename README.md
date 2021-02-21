@@ -50,12 +50,12 @@ https://theolivebook.com/states-that-offer-the-act-or-sat-for-free/
 |**act_75_percentile**|*float*|sat_act_by_college|ACT accept at 75th percentile.|
 
 ## Conclusions
-From observation we found strong negative relationship between SAT total score and SAT participation and also for the ACT composite score and ACT paticipation.
-So these are the important variable to check for government in order to funded for each states. 
-As this we calculated the total/composite score when each states have participation at 100% and how much their total/composite score to make sure that state that get funded will do well with thire total/composite score.
+Based on the data, major movements in participation rates are depended to the state policies. 
+If a state were funded for all students to take SAT/ACT, the participation rate would increased to nearly 100%. 
+And participation rates also related with average total/composite score in negative way. 
+Therefore, prediction of new total/composite score when participation rate is 100%, is the way to ranked a states with high ability of student regardless to the differs of participation rate.
 
-As the result,  the government can decided to make funded to which states that have high mean total/composite score while they get funded for free test.
-
-For SAT states that will get funded are Massachusetts, Massachusetts, Wisconsin, Virginia and South Dakota etc.
-
-For ACT states that will get funded are Connecticut, Massachusetts, New Hampshire, Michigan and Illinois etc.
+## Recommendations
+As the result,  the government can decided to make funded to which states that have prediction of high average total/composite score while the participation rate is nearly to 100% which are:
+* SAT funded for Massachusetts, Minnesota, Wisconsin, Virginia and South Dakota etc.
+* ACT funded for Connecticut, Massachusetts, New Hampshire, Michigan and Illinois etc.
