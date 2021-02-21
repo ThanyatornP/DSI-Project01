@@ -3,7 +3,7 @@
 ## Background
 In United State, SAT and ACT are standardized tests in order to admittance to a US university along with others extracurricular activities, essays, athletics, and others.
 The difference between SAT and ACT:
-* SAT has two sections of the test: Evidence-Based Reading and Writing and Math.
+* SAT has two sections of the test: Evidence-Based Reading and Writing and Mathematics.
 * ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section.
 
 ## Problem Statement
