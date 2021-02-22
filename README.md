@@ -3,11 +3,11 @@
 ## Background
 In United State, SAT and ACT are standardized tests in order to admittance to a US university along with others extracurricular activities, essays, athletics, and others.
 The difference between SAT and ACT:
-* SAT has two sections of the test: Evidence-Based Reading and Writing and Math.
+* SAT has two sections of the test: Evidence-Based Reading and Writing and Mathematics.
 * ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section.
 
 ## Problem Statement
-As United State government decided to funded ACT and SAT test for high school students in particular states with a limited budget in order to help student for higher education.
+As United State government decided to funded ACT and SAT test for high school students in particular states with a limited budget in order to help student for higher education.  
 For the best outcome, which states should they funded for ACT and SAT?
 
 ## Outside research
@@ -17,10 +17,8 @@ From outside research there are policy in some state that provide a free test fo
 * For ACT there are 17 states in 2017 and incresed to 20 states in 2019.
 
 
-https://magoosh.com/hs/sat/states-provide-sat-free/
-
-https://magoosh.com/hs/act/states-provide-act-free/
-
+https://magoosh.com/hs/sat/states-provide-sat-free/  
+https://magoosh.com/hs/act/states-provide-act-free/  
 https://theolivebook.com/states-that-offer-the-act-or-sat-for-free/
 
 ## Data Dictionary
@@ -50,9 +48,9 @@ https://theolivebook.com/states-that-offer-the-act-or-sat-for-free/
 |**act_75_percentile**|*float*|sat_act_by_college|ACT accept at 75th percentile.|
 
 ## Conclusions
-Based on the data, major movements in participation rates are depended to the state policies. 
-If a state were funded for all students to take SAT/ACT, the participation rate would increased to nearly 100%. 
-And participation rates also related with average total/composite score in negative way. 
+Based on the data, major movements in participation rates are depended to the state policies.  
+If a state were funded for all students to take SAT/ACT, the participation rate would increased to nearly 100%.  
+And participation rates also related with average total/composite score in negative way.  
 Therefore, prediction of new total/composite score when participation rate is 100%, is the way to ranked a states with high ability of student regardless to the differs of participation rate.
 
 ## Recommendations
