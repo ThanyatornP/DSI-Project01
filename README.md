@@ -55,5 +55,4 @@ Therefore, prediction of new total/composite score when participation rate is 10
 
 ## Recommendations
 As the result,  the government can decided to make funded to which states that have prediction of high average total/composite score while the participation rate is nearly to 100% which are:
-* SAT funded for Massachusetts, Minnesota, Wisconsin, Virginia and South Dakota etc.
-* ACT funded for Connecticut, Massachusetts, New Hampshire, Michigan and Illinois etc.
+* ACT funded Minnesota, Illinois, Connecticut, Massachusetts, South Dakota and so on.
