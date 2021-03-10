@@ -78,5 +78,22 @@ Therefore the test ACT should be funded based on criteria following:
 
 
 ## Recommendations
-As the result,  the government can decided to make funded to which states that have prediction of high average total/composite score while the participation rate is nearly to 100% which are:
-* ACT funded Minnesota, Illinois, Connecticut, Massachusetts, South Dakota and so on.
+As the result, the government can decided to make funded free test for SAT and ACT as following top 5 state of each test:
+
+**SAT**
+<ol>
+    <li>Minnesota</li>
+    <li>Wisconsin</li>
+    <li>South Dakota</li>
+    <li>North Dakota</li>
+    <li>Nebraska</li>
+</ol>
+
+**ACT*
+<ol>
+    <li>Massachusetts</li>
+    <li>Connecticut</li>
+    <li>New Hampshire</li>
+    <li>Rhode Island</li>
+    <li>New York</li>
+</ol>
