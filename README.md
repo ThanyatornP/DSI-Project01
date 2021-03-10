@@ -1,4 +1,5 @@
 # DSI-Project01
+## Analysis of SAT and ACT
 
 ## Background
 In United State, SAT and ACT are standardized tests in order to admittance to a US university along with others extracurricular activities, essays, athletics, and others.
@@ -89,7 +90,7 @@ As the result, the government can decided to make funded free test for SAT and A
     <li>Nebraska</li>
 </ol>
 
-**ACT*
+**ACT**
 <ol>
     <li>Massachusetts</li>
     <li>Connecticut</li>
